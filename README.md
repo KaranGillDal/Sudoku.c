@@ -1,1 +1,2 @@
-# Sudoku.c
+# Sudoku
+Game for fun
